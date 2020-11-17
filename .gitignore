@@ -1,0 +1,7 @@
+### DotnetCore ###
+bin/
+obj/
+out/
+
+.vscode/
+.vs/
